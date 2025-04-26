@@ -1,4 +1,4 @@
-# LED Control Using Switch
+# Humidity sensing using arduino
 
 ## AIM:
 
